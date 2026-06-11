@@ -1,0 +1,6 @@
+echo "*.joblib
+*.pkl
+venv/
+__pycache__/
+*.log
+*.pyc" > .gitignore
