@@ -655,7 +655,7 @@ MIT was chosen because it:
 
 **TASKGUARD** · Built as a Final Year Project · DMI Engineering College, Anna University Chennai · 2026
 
-*Kaviyarasan K · Michael Antony Delicate J · Kanagaraj K*
+*Kaviyarasan K*
 
 [![GitHub](https://img.shields.io/badge/GitHub-kaviyarasank2004-181717?style=flat-square&logo=github)](https://github.com/kaviyarasank2004/taskguard)
 
